@@ -24,7 +24,37 @@ done
 # Uses Inkscape for accurate SVG rendering (better than ImageMagick for gradients/fonts)
 ```
 
+## Level Roles
+
+Bronze: `b65f33`
+
+Silver: `c0c0c0`
+
+Gold: `ffd700`
+
+Platinum: `e5e4e2`
+
+Diamond: `70d1f4`
+
+Galactic: `382df0`
+
+Supreme Yapper: `57e4d6`
+
 ## Color Roles
+
+Bots: `3498db`
+
+YouTube: `ff0000`
+
+Twitch: `71368a`
+
+Boosters: `f47fff` - `b44cff`
+
+Staff On Leave: `555555` - `222222`
+
+Retired Staff: Holographic (`A9DFFF` - `FFB2EC` - `FFBB80`)
+
+Friends: `ff00ff` - `ff0060`
 
 Helper: `f4e919` - `ff00fb`
 

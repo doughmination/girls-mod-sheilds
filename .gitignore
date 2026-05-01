@@ -1,1 +1,5 @@
 .DS_Store
+fetch.js
+node_modules/
+package-lock.json
+package.json
