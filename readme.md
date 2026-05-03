@@ -26,29 +26,33 @@ done
 
 ## Level Roles
 
-Bronze: `b65f33`
+Bronze: `b65f33` -  `ffd27a`
 
-Silver: `c0c0c0`
+Silver: `c0c0c0` - `8f8f8f`
 
-Gold: `ffd700`
+Gold: `ffd700` - `b89600`
 
-Platinum: `e5e4e2`
+Platinum: `e5e4e2` - `bdbdbd`
 
-Diamond: `70d1f4`
+Diamond: `70d1f4` - `a6e7ff`
 
-Galactic: `382df0`
+Galactic: `382df0` - `7a6cff`
 
-Supreme Yapper: `57e4d6`
+Supreme Yapper: `57e4d6` - `57e4d6`
 
-## Color Roles
+## Other Roles
 
-Bots: `3498db`
+Bots: `3498db` - `ff00ff`
 
 YouTube: `ff0000`
 
 Twitch: `71368a`
 
 Boosters: `f47fff` - `b44cff`
+
+Honeypot: `ff0000` - `631212`
+
+## Staff Roles
 
 Staff On Leave: `555555` - `222222`
 
